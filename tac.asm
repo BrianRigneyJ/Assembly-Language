@@ -1,6 +1,3 @@
-;	Brian Rigney
-;	ECE 109
-;	Program 3
 ;	This program will allow 2 users to play a game of tic-tac-toe
 ;	using the LC-3 graphics display. An illegal entry (outside 0-8)
 ;	will prompt the same user for a valid input, and q will halt the program.
